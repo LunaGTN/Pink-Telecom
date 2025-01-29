@@ -12,6 +12,7 @@ C'est pourquoi Pinky fait appel à moi ! Pinky tm fournit une extraction d'un é
 
 ### Organisation
 - **Fichier "machine_learning"** : Traitement des données avec une Pipeline, entraînement du model de régression logiqtique, critères d'évaluation du modèle avec F1 score et matrice de confusion. Enfin, analyse de l'importance de chaque feature sur le résultat final avec SHAP. 
+**NB**: Avant de lancer le fichier analysis, télécharger le nouveau csv à la fin du fichier "machine_learning".
 - **Fichier "analysis"** : Analyse graphique des features qui sont ressorties auprès du SHAP.
 
 ### Capture d'écran rapport PowerBI
